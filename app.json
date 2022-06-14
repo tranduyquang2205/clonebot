@@ -6,12 +6,12 @@
   "website": "https://github.com/m4mallu/conebot",
   "repository": "https://github.com/Your-Fork-URL",
   "env": {
-        "APP_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
-        "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
-        "TG_BOT_TOKEN": {"description": "Get Bot Token From BotFather Bot","required": true},
-        "TG_USER_SESSION": {"description": "String Session from an admin user. Go to: t.ly/GxsB ","required": true},
-        "AUTH_USERS": {"description": "User ids of authorized users separated by space", "required": false},
-        "ENV": {"description": "Set this to ANYTHING","value": "ANYTHING"}
+        "APP_ID": 4211553,
+        "API_HASH": "60cb7c1717a551957a658bfd1584c114",
+        "TG_BOT_TOKEN": "5526108006:AAGjrPz9ynbNFL6vg0OHtn-h3AXUETERSoA",
+        "TG_USER_SESSION": "BQBAQ2EAoKaLJztv4AMdAiGmDtunPV2X6fQ_AanQBgssPmgmyPJEjgEurp1wB-6qVTYLKbI8zaugjTuBRUZqFvnos-e-oEc-ew5HoNJGRQXuFc64zHiJd633f1MMOJyU9t-XLpTSKu4fDrIFloS1KR-j-FIiw5TQlS9-OjXRrlHmGSCLyRvpaa_wgawnrqnSiwMse1no4genF1Q1jNZ0dhYO4n1wxfimf1saFN41P0MUUCuUUvA6qIMzBM_r8WHVTT12EPtBXT-5Zhtn8PvgTVzzy9sIWhCBvJGRth8-n385Dp-KD8sfL14cTaSgYvb57eXUFt08OLMBbgA2Fu__7nLJldabBQAAAABrZ0r2AA",
+        "AUTH_USERS": "",
+        "ENV": "ANYTHING"
   },
   "addons": [
     {
